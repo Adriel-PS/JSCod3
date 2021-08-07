@@ -1,3 +1,5 @@
 // = comentar linha de codigo 
 
 "" = '' 
+
+conectado
