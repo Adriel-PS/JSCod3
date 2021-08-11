@@ -7,4 +7,4 @@ console.log(0.1+0.7)
 let a = 10 
 console.log(a.toString())
 //console.log(10.toSting())
-console.log((15.125468).toFixed(2))
+console.log((15.125468).toFixed(2)) //to fixed seleciona a quantidade de numero depois da virgula iram aparecer 
