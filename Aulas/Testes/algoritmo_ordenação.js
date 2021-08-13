@@ -7,7 +7,6 @@ var num = 0
 console.log("fora de ordem : " + ordem)
 
 while(val){
-    
     //ordenando 
     if(ordem[num+1] < ordem[num] ){
         var aux = ordem[num] 
@@ -23,6 +22,7 @@ while(val){
     if(contador == 60){
         break
     }
+    
     contador = contador+1
 }
 console.log("processando...")
